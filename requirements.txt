@@ -1,5 +1,5 @@
 pip install google-genai
-pip install pyttsx3
-pip install requests
 pip install speech_recogination
 pip install pyaudio
+pip install pyttsx3
+pip install requests
