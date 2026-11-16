@@ -104,7 +104,7 @@ python main.py
 
 ## 👨‍💻 Author
 
-**Priyanshu Singh**
+**Priyanshu Kumar Singh**
 
 BSc Computer Science & Data Analytics  
 IIT Patna
